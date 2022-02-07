@@ -6,5 +6,5 @@ This Documentation is for my YouTube Channel [**c17hawke**](https://www.youtube.
 
 |Topic|SubTopic|
 |-|-|
-|[Section: 1 Just-Python](./Section_001_Just_Python/) | Decorators |
+|[Section: 1 Just-Python](./Just_Python/) | Decorators |
 || _ |
