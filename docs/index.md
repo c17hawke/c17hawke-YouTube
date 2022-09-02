@@ -6,5 +6,6 @@ This Documentation is for my YouTube Channel [**c17hawke**](https://www.youtube.
 
 |Topic|SubTopic|
 |-|-|
-|[Section: 1 Just-Python](./just_python/) | Decorators |
+|[Video: 01](./decorators/) | `Decorators` |
+|[Video: 02](./ensure/) | `Python good practices | Prevent unwanted bugs`  |
 || _ |

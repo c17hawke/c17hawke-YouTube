@@ -3,7 +3,8 @@ site_name: c17hawke-YouTube
 # defeine TOC or order of website-
 nav:
   - Home: index.md
-  - Just Python: just_python.md
+  - Decorators: decorators.md
+  - Ensure: ensure.md
   - Feedback: feedback.md
 
 site_author: Sunny Bhaveen Chandra
